@@ -1,5 +1,5 @@
 {
-  "name": "customer feedabck with email and slack",
+  "name": "customer-feedback-workflow.json",
   "nodes": [
     {
       "parameters": {
